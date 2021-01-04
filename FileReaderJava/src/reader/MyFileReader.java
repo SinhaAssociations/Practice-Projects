@@ -18,8 +18,6 @@ public class MyFileReader {
 			System.out.println(s[1]);
 			
 			
-			
-			
 		}
 		
 	}

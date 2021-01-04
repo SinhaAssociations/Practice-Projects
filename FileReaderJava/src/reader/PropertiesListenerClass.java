@@ -12,6 +12,12 @@ public class PropertiesListenerClass {
 		prop.load(ip);
 		System.out.println(prop.getProperty("password"));
 		System.out.println(prop.getProperty("username"));
+		
+		
+		
+		System.out.println("Hello Rahul..");
+
+		System.out.println("Hello Sinha..");
 	}
 
 }
