@@ -16,6 +16,10 @@ public class MyFileReader {
 			String[] s = r.split(":"); 
 			System.out.println(s[0]);
 			System.out.println(s[1]);
+			
+			
+			
+			
 		}
 		
 	}

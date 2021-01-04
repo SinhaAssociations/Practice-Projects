@@ -11,7 +11,7 @@ public class PropertiesListenerClass {
 		FileInputStream ip=new FileInputStream("./myFiles.properties");
 		prop.load(ip);
 		System.out.println(prop.getProperty("password"));
-
+		System.out.println(prop.getProperty("username"));
 	}
 
 }
